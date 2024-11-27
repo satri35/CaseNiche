@@ -1,0 +1,1 @@
+Phone Case Studio is a straightforward yet feature-rich web design project. With a clear HTML structure and modern CSS styling, this site showcases phone cases in an appealing way. The project serves not only small e-commerce needs but also as an ideal learning tool for beginners starting their web development journey.
